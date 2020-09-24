@@ -1,2 +1,2 @@
 # VBT-Internship
- VBT-Staj süresince yaptığım bazı projeler.
+ VBT-Staj süresince Kotlin ile geliştirdiğim bazı projeler.
